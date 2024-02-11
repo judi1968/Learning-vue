@@ -1,3 +1,6 @@
-body{
-    background-color: rgb(71, 71, 71);
+.header-navigation .container li{
+    text-align: center;
+}
+.header-navigation .container li a i,p{
+    color: white;
 }

@@ -31,35 +31,23 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
           <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
             <li>
               <a href="#" class="nav-link text-secondary">
-                <center style="color: white;">
-                  <i class="bi bi-heart-fill" width="24" height="24"></i>
+                <i class="bi bi-house" width="50" height="50"></i>
+                <br>
+                <p>Home</p>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link text-secondary">
+                  <i class="bi bi-person-plus" width="24" height="24"></i>
                   <br>
-                  Home
-                </center>
+                  <p>Ajout</p>
               </a>
             </li>
             <li>
-              <a href="#" class="nav-link text-white">
-                <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#speedometer2"/></svg>
-                Dashboard
-              </a>
-            </li>
-            <li>
-              <a href="#" class="nav-link text-white">
-                <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#table"/></svg>
-                Orders
-              </a>
-            </li>
-            <li>
-              <a href="#" class="nav-link text-white">
-                <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#grid"/></svg>
-                Products
-              </a>
-            </li>
-            <li>
-              <a href="#" class="nav-link text-white">
-                <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#people-circle"/></svg>
-                Customers
+              <a href="#" class="nav-link text-secondary">
+                  <i class="bi bi-list" width="24" height="24"></i>
+                  <br>
+                  <p>Liste</p>
               </a>
             </li>
           </ul>
