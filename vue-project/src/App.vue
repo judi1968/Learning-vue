@@ -30,14 +30,14 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
           <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
             <li>
-              <a href="#" class="nav-link text-secondary">
+              <a href="/my-project" class="nav-link text-secondary">
                 <i class="bi bi-house" width="50" height="50"></i>
                 <br>
                 <p>Home</p>
               </a>
             </li>
             <li>
-              <a href="#" class="nav-link text-secondary">
+              <a href="/ajout" class="nav-link text-secondary">
                   <i class="bi bi-person-plus" width="24" height="24"></i>
                   <br>
                   <p>Ajout</p>

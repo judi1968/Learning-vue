@@ -1,6 +1,9 @@
 .header-navigation .container li{
     text-align: center;
 }
-.header-navigation .container li a i,p{
+.header-navigation .container li a i{
+    color: white;
+}
+.header-navigation .container li a p{
     color: white;
 }
