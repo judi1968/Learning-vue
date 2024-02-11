@@ -1,10 +1,5 @@
 <template>
     <div>
-        <h1>Bonjour</h1>
+        <h1 class="btn">Bonjour</h1>
     </div>
-  </template>
-  <style>
-    div{
-        background-color:red;
-    }
-</style>
+</template>
