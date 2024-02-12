@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import Home from '../views/Musician-net/Home.vue'
 import Ajout from '../views/Musician-net/Ajout.vue'
+import List from '../views/Musician-net/List.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -28,6 +29,12 @@ const router = createRouter({
       path: '/ajout',
       name: 'Ajout d\' employer',
       component: Ajout
+    }
+    ,
+    {
+      path: '/list',
+      name: 'List d\' employer',
+      component: List
     }
   ]
 })

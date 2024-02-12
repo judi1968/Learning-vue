@@ -44,7 +44,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
               </a>
             </li>
             <li>
-              <a href="#" class="nav-link text-secondary">
+              <a href="/list" class="nav-link text-secondary">
                   <i class="bi bi-list" width="24" height="24"></i>
                   <br>
                   <p>Liste</p>
